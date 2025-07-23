@@ -23,7 +23,7 @@ This project is ideal for learning how to combine **machine learning** with **we
 ### 🚀 Frontend
 - **React.js**: User interface
 - **Axios**: API calls to FastAPI backend
-- **Tailwind CSS** *(optional)*: For UI styling and responsiveness
+- **Tailwind CSS** : For UI styling and responsiveness
 
 ### 🔧 Backend
 - **FastAPI**: REST API server
